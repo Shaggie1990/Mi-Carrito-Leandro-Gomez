@@ -1,0 +1,237 @@
+@charset "UTF-8";
+@import url("https://fonts.googleapis.com/css2?family=Bakbak+One&family=Comforter+Brush&family=Open+Sans&display=swap");
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+header {
+  width: 100%;
+  height: auto;
+  display: flex;
+  align-items: center;
+  flex-direction: row;
+  background-color: #004d03;
+}
+
+h1 {
+  padding: 10px;
+  text-align: center;
+  background-position: center;
+  text-transform: uppercase;
+  font-weight: bold;
+  color: #000000;
+  text-shadow: 5px 5px 5px #0077ff;
+  font-family: "Open Sans", sans-serif;
+}
+
+h2 {
+  padding: 10px;
+  text-align: center;
+  background-position: center;
+  text-transform: uppercase;
+  font-weight: bold;
+  color: #000000;
+  text-shadow: 5px 5px 5px #0077ff;
+  font-family: "Open Sans", sans-serif;
+}
+
+p {
+  text-align: center;
+  background-position: center;
+  text-align: justify;
+  color: #000000;
+  font-family: "Open Sans", sans-serif;
+}
+
+*::selection {
+  color: #fff;
+  background-color: #0077ff;
+}
+
+.titulo {
+  text-align: center;
+  font-size: 50px;
+  display: flex;
+  flex-direction: column;
+  text-transform: uppercase;
+  color: #000000;
+  text-shadow: 5px 5px 5px #0077ff;
+  font-family: "Open Sans", sans-serif;
+}
+
+.titulo:hover {
+  transform: scale(1.05);
+  transition: all 0.9s;
+}
+
+/* seccion nav - Inicio */
+
+nav {
+  width: 100%;
+  height: auto;
+  padding: 200px;
+}
+
+.navbar-nav a {
+
+  color: #004d03;
+  font-size: 20px;
+}
+
+.navbar-nav li a:hover {
+  font-size: 20px;
+  color: #fff;
+  background-color: #ffffff7e;
+  border-radius: 5px 5px 5px 5px;
+}
+
+.navbar-brand img {
+  height: 110px;
+}
+
+/* seccion nav - Fin */
+
+/* seccion main - Inicio */
+main {
+  width: auto;
+  padding: 10px;
+  background-color: rgb(204, 204, 204);
+}
+
+.card {
+  width: 350px;
+  height: 400px;
+  color: #000000;
+  background-color: #0077ff;
+  border: 3px solid #000000;
+}
+
+
+.card p {
+  color: #000000;
+  font-weight: bold;
+  font-family: "Open Sans", sans-serif;
+}
+
+/* seccion main - Fin */
+
+/* seccion Contacto  -  Inicio */
+
+.container-fluid_contacto {
+  min-height: 200px;
+  width: 100%;
+  padding: 20px;
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.contacto-left_formulario h4 {
+  font-size: 30px;
+  display: flex;
+  flex-direction: row;
+  text-transform: uppercase;
+  color: #000000;
+  align-items: center;
+  text-shadow: 5px 5px 5px #0077ff;
+  font-family: "Open Sans", sans-serif;
+}
+
+.contacto-left_formulario h4:hover {
+  transform: scale(1.05);
+  transition: all 0.9s;
+}
+
+.contacto-right_map h4 {
+  font-size: 30px;
+  display: flex;
+  flex-direction: row;
+  text-transform: uppercase;
+  color: #000000;
+  align-items: center;
+  text-shadow: 5px 5px 5px #0077ff;
+  font-family: "Open Sans", sans-serif;
+}
+
+.contacto-right_map h4:hover {
+  transform: scale(1.05);
+  transition: all 0.9s;
+}
+
+.btn__redes img {
+  width: 60px;
+  display: flex;
+  flex-wrap: wrap;
+}
+
+/* seccion Contacto  -  Fin */
+
+
+/* seccion Footer  -  Inicio */
+
+footer {
+  background-color: #0077ff;
+  min-height: 150px;
+  width: 100%;
+  padding: 20px;
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.footer-left_btn img {
+  width: 100%;
+  padding: 10px;
+  height: 60px;
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.footer-right_btn p {
+  width: 100%;
+  padding: 10px;
+  height: 60px;
+  display: flex;
+  flex-wrap: wrap;
+}
+
+#areadetexto {
+  color: #000000;
+  background-color: #0077ff;
+  transition: all 2s;
+  align-items: flex-end;
+}
+
+#areadetexto:focus {
+  font-size: 18px;
+  background-color: #0077ff;
+  border: 5px dotted #ffffff7e;
+  border-radius: 5px 5px 0 0;
+}
+
+input {
+  background-color: #0077ff;
+  transition: all 2s;
+  align-items: flex-end;
+}
+
+input:focus {
+  font-size: 18px;
+  background-color: #0077ff;
+  border: 5px dotted #ffffff7e;
+  border-radius: 5px 5px 0 0;
+  color: #000;
+}
+
+input::placeholder {
+  background-color: #0077ff;
+  color: #000;
+  font-size: 100px;
+}
+
+/* seccion Footer  -  Fin */

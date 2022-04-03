@@ -1,0 +1,74 @@
+[{
+    "precio": 350,
+    "id": 1,
+    "title": "Café",
+    "thumbnailUrl": "https://d3ugyf2ht6aenh.cloudfront.net/stores/480/355/products/cafe11-989bd592a6cbc6101615119476738781-1024-1024.jpg"
+  },
+  {
+    "precio": 100,
+    "id": 2,
+    "title": "Jugo De Naranja Exprimido",
+    "thumbnailUrl": "https://d3ugyf2ht6aenh.cloudfront.net/stores/480/355/products/jugo-de-naranja1-0b338abb1b08e45b5215119476891064-640-0.jpg"
+  },
+  {
+    "precio": 400,
+    "id": 3,
+    "title": "Tostado",
+    "thumbnailUrl": "https://d3ugyf2ht6aenh.cloudfront.net/stores/480/355/products/tostadas-jq1-d2c40500309175ab1315119478812711-1024-1024.jpg"
+  },
+  {
+    "precio": 20,
+    "id": 4,
+    "title": "Media Luna",
+    "thumbnailUrl": "https://d3ugyf2ht6aenh.cloudfront.net/stores/480/355/products/medialunas-de-manteca-para-el-desayuno1-6b6f911358a78ac10615119476992274-480-0.jpg"
+  },
+  {
+    "precio": 350,
+    "id": 5,
+    "title": "Gaseosa",
+    "thumbnailUrl": "https://d3ugyf2ht6aenh.cloudfront.net/stores/480/355/products/cocacchi1-73ceb5b5f02682bdd115119479848569-240-0.jpg"
+  },
+  {
+    "precio": 550,
+    "id": 6,
+    "title": "Cerveza",
+    "thumbnailUrl": "https://d3ugyf2ht6aenh.cloudfront.net/stores/480/355/products/argentinos-consumo-cerveza-31-d818370701094c209b15119479965812-1024-1024.jpg"
+  },
+  {
+    "precio": 250,
+    "id": 7,
+    "title": "Aguas",
+    "thumbnailUrl": "https://d3ugyf2ht6aenh.cloudfront.net/stores/480/355/products/aquachi1-449a3c783c4a433e9715119479905453-240-0.jpg"
+  },
+  {
+    "precio": 590,
+    "id": 8,
+    "title": "Hamburgesas",
+    "thumbnailUrl": "https://d3ugyf2ht6aenh.cloudfront.net/stores/480/355/products/burger-3050025_19201-9bdeba1bd61f22d97915963291468181-240-0.jpg"
+  },
+
+  {
+    "precio": 690,
+    "id": 9,
+    "title": "Sandwich de Milanesas",
+    "thumbnailUrl": "https://d3ugyf2ht6aenh.cloudfront.net/stores/480/355/products/sanwich-milanesa1-ed14e434197114aa8e15119478972193-240-0.jpg"
+  },
+  {
+    "precio": 200,
+    "id": 10,
+    "title": "Empanadas",
+    "thumbnailUrl": "https://d3ugyf2ht6aenh.cloudfront.net/stores/480/355/products/empanadas1-e16b9748eacff4993015119479206259-240-0.jpg"
+  },
+  {
+    "precio": 900,
+    "id": 11,
+    "title": "Pizza Tradicional",
+    "thumbnailUrl": "https://d3ugyf2ht6aenh.cloudfront.net/stores/480/355/products/elvaboradas-acchi1-3554bad80b375a5ced15119478146397-1024-1024.jpg"
+  },
+  {
+    "precio": 850,
+    "id": 12,
+    "title": "MILANESAS Y SUPREMAS",
+    "thumbnailUrl": "https://d3ugyf2ht6aenh.cloudfront.net/stores/480/355/products/c-6pymwxgaaasw31-6e73bd32635cf8d25515119479267833-1024-1024.jpg"
+  }
+]
